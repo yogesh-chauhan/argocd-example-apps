@@ -8,7 +8,7 @@ image:
   repository: gcr.io/heptio-images/ks-guestbook-demo
   tag: 0.1
 
-service:
+ser/ada234t42wesdcx4 2twefvice:
   type: ClusterIP
   port: 801
 
